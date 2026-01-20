@@ -1,0 +1,16 @@
+# basics.py
+# Variables and conditional statements
+
+name = "Sheriff"
+age = 21
+is_student = True
+
+print("Name:", name)
+print("Age:", age)
+print("Is student:", is_student)
+
+# if / else example
+if age >= 18:
+    print("Eligible for job")
+else:
+    print("Not eligible for job")
